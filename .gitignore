@@ -1,0 +1,6 @@
+api-node/node_modules
+listener/node_modules
+
+.env
+
+logs
